@@ -1,0 +1,18 @@
+[
+    {
+        "brand": "A",
+        "ingredients": ["WATERDEIONIZED", "VEGETABLEGLYCERIN", "WATER"]
+    },
+    {
+        "brand": "B",
+        "ingredients": "WATER"
+    },
+    {
+        "brand": "A",
+        "ingredients": "PINEAPPLE"
+    },
+    {
+        "brand": "D",
+        "ingredients": "YESSIR"
+    }
+]
